@@ -2,7 +2,7 @@
 
 namespace HelloDI
 {
-    class Salutation
+    public class Salutation
     {
         private readonly IMessageWriter writer;
 
